@@ -21,3 +21,12 @@
 *.i*86
 *.x86_64
 *.hex
+
+#SDCC
+*.asm
+*.rel
+*.lst
+*.sym
+
+#joe
+*~
